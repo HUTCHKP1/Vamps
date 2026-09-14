@@ -11,3 +11,11 @@
 | As an Application Owner | I want to restrict full CRUD permissions to authorised team members while keeping it read-only for others | So that our internal data remains secure and free from accidental deletions. | | 
 | As an Internal Employee with diverse accessibility needs | I want to navigate the application entirely via keyboard controls and use it with a screen reader | So that I can manage and view device data independently. | |
 | As a User looking at a screen in different lighting conditions | I want the application to feature high-contrast visual elements and clear font sizes | So that the tool meets standard internal accessibility guidelines (like WCAG). | |
+---
+
+|prio|test|test|
+|--|--|--|
+| Cluster-A | Static Tier 1 | ${\color{red}\textbf{HIGH}}$ |
+| Cluster-B | Dynamic Scaling | ${\color{orange}\textbf{MEDIUM}}$ |
+| Cluster-C | Oversubscribed | ${\color{lightgreen}\textbf{LOW}}$ |
+| Cluster-D | Idle Backup | ${\color{gray}\textbf{NONE}}$ |
